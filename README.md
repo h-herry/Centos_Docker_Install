@@ -1,4 +1,4 @@
-# Centos_Docker_Install
+# Install-Docker-Engine-on-CentOS
 1.移除旧版本
 
 sudo yum remove docker \
